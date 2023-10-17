@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+}
+
+.container-fluid {
+    margin-left: 10px;
+}
+
+.imagekostkasledem {
+    margin-left: 10px;
+}
+.footer {
+    display:flex;
+    background-color: aqua;
+    color: blue;
+    justify-content:center;
+}
+.levelsyt {
+    justify-content:space-between;
+    display:flex;
+}
+
+.levels {
+    background-color: aqua;
+}
